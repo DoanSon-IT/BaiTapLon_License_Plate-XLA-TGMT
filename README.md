@@ -6,4 +6,4 @@
 
 # kết quả đạt được
 --Độ chính xác tren 90% đối với 2 model
-ib DoanSon để biết thêm chi tiết
+# dataset sử dụng liên hệ gmail: sondv76@gmail.com mình share cho
