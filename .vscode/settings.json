@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./sort-master/sort-master"
+    ]
+}
