@@ -1,3 +1,4 @@
+# do thời gian có hạn nên em chưa tìm được cách xóa file Word và PowerPoint cũ, Mong cô giáo thông cảm
 # Môn học: Xử lý ảnh và thị giác máy tính <br>
 #Giảng viên hướng dẫn: Lương Thị Hồng Lan<br>
 #Nhóm 05: Mai Thanh Bình | Lường Văn Chung | Đoàn Văn Sơn | Nguyễn Trọng Tấn | Đỗ Quốc Trung <br>
